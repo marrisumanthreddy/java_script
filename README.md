@@ -1,2 +1,2 @@
 # java_script
-demo repository
+name is MARRI SUMANTH KUMAR REDDY
