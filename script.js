@@ -39,5 +39,5 @@ function declared(){
 console.log(expression());
 const expression=function(){
     return"Iam a Expression Function";
-}
+}//output:cannot access 'expression' before initialization.
 
